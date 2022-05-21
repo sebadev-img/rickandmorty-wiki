@@ -1,0 +1,24 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #24282f;
+}
+
+.list-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content-container {
+  display: flex;
+  margin-top: 16px;
+}
+
+footer {
+  background-color: #202329;
+
+  display: flex;
+  justify-content: center;
+}

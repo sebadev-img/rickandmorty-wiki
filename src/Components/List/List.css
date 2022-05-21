@@ -1,0 +1,13 @@
+.list-count {
+  margin-left: 100px;
+  color: #f5f5f5;
+}
+
+.list-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+  margin: 0 100px;
+  margin-top: 24px;
+  width: 1000px;
+}
